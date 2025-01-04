@@ -1,1 +1,7 @@
+streamlit run "D:\Smart Healthcare System for Disease Prediction\Multiple Disease Prediction System\app.py"
 
+NumPy version==2.0.2
+Scikit-learn version==1.6.0
+Streamlit version==1.41.1
+Pandas version==2.2.3
+streamlit-option-menu==0.4.0
