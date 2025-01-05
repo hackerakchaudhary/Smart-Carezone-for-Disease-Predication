@@ -1,4 +1,3 @@
 # Smart-Carezone-for-Disease-Predication
 
-
-The "Smart-Carezone-for-Disease-Predication" project leverages machine learning models for disease prediction. It includes predictions for Diabetes, Heart Disease, Parkinson's, and Breast Cancer based on patient data. The system aids in early detection and diagnosis, helping healthcare providers make informed decisions. By training on relevant health datasets, the models offer valuable insights for personalized treatment plans. This project showcases the potential of AI in improving healthcare outcomes.
+# The "Smart-Carezone-for-Disease-Predication" project leverages machine learning models for disease prediction. It includes predictions for Diabetes, Heart Disease, Parkinson's, and Breast Cancer based on patient data. The system aids in early detection and diagnosis, helping healthcare providers make informed decisions. By training on relevant health datasets, the models offer valuable insights for personalized treatment plans. This project showcases the potential of AI in improving healthcare outcomes.
